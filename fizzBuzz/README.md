@@ -3,6 +3,8 @@
 This repository contains a simple Python implementation of the classic **FizzBuzz** programming challenge.  
 FizzBuzz is often used as a beginner-friendly exercise to practice conditional statements, loops, and modular arithmetic.
 
+![Challenge Banner](challenge_banner.jpg)
+
 ## 📌 How FizzBuzz Works
 
 For any number **n**, the program prints:
